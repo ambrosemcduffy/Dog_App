@@ -18,4 +18,4 @@ Using a **pretrained** network allows one to take advantage of having a trained 
 # Conclusion
 The model seems to run well, and was very interesting project in developing an complete understanding of convnets, and pretrained networks.
 
-<img src="output_dog_result.JPG" width = 300>
+<img src="output_dog_result.JPG" width = 500>

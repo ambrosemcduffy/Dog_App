@@ -10,7 +10,7 @@ Pre-requisites
 * Imageio
 * SkLearn
 * PIL
-## Model Creation
+## Background 
 The model I used to predict the dog images, was a pretrained Resnet network.
 
 Using a **pretrained** network allows one to take advantage of having a trained network to do all the heavy lifting, and all I have to do is add my dataset classification at the end of the network.
